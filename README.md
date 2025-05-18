@@ -32,7 +32,7 @@ Edit
 bash
 Copy
 Edit
-git clone https://github.com/your-username/keeper-app.git
+git clone (https://github.com/NasrKashtu/Keeper-App-Using-React/tree/main)
 cd keeper-app
 Install dependencies:
 
