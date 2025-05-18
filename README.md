@@ -82,4 +82,4 @@ Edit
 markdown
 Copy
 Edit
-MIT License
+MIT License.
